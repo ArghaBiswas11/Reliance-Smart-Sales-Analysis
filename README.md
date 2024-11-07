@@ -1,6 +1,6 @@
-### Reliance-Smart-Sales-Analysis
+# Reliance-Smart-Sales-Analysis
 
- # Report Snapshot (Power BI DESKTOP)
+### Report Snapshot (Power BI DESKTOP)
 
  ![Screenshot 2024-11-07 203311](https://github.com/user-attachments/assets/a8bdcd6e-2a2f-4886-b80d-cc933978ef3a)
 
