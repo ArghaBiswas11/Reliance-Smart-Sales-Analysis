@@ -4,15 +4,15 @@
 
  ![Screenshot 2024-11-07 203311](https://github.com/user-attachments/assets/a8bdcd6e-2a2f-4886-b80d-cc933978ef3a)
 
-# Problem Statement
+# Problem Statement:
 This dashboard provides a detailed analysis of Reliance Smart's sales data, helping stakeholders understand key metrics related to product performance, revenue, profit, and returns. Through the visualization of these metrics, Reliance Smart can make informed decisions to optimize product strategy, improve profitability, and achieve sales targets.
 
-# Key Metrics
+# Key Metrics:
 Revenue Vs Prev. Month: Indicates the revenue achieved compared to the previous month with a percentage increase or decrease.
 Profit Vs Prev. Month: Shows profit changes compared to the previous month.
 Returns Vs Prev. Month: Displays the total returns compared to the previous month.
 
-# Dashboard Components
+# Dashboard Components:
 ### 1. Product Brand Wise Data
 Shows metrics such as transactions, quantity sold, revenue, and profit by each product brand.
 Helps identify top-performing brands and those with higher profitability.
@@ -23,7 +23,7 @@ Allows for geographic analysis of revenue generation.
 A treemap showing the number of transactions in each state, enabling analysis of sales concentration.
 Highlights states with the highest and lowest transaction volumes.
 
-# Steps Followed
+# Steps Followed:
 ### Data Loading:
 Loaded sales data including customers, stores, regions, products, calendar, returns and transactions into Power BI from the respective CSV files.
 
@@ -44,7 +44,7 @@ Table Visualization: Displayed product brand metrics including transactions, qua
 ### Publishing:
 The report was published to Power BI Service, making it accessible to stakeholders.
 
-# Insights
+# Insights:
 ### Performance Compared to Goals:
 Revenue exceeded the goal by 5.6%.
 Profit was up by 5.61% from the previous month.
@@ -59,7 +59,7 @@ The majority of revenue comes from North American regions, indicating a strong m
 ### State-Wise Sales Trends:
 Washington (WA) and California (CA) have the highest transaction volumes, suggesting focused marketing efforts or customer preference in these areas.
 
-# Future Scope
+# Future Scope:
 Trend Analysis: Include trends over multiple months to predict future sales and revenue patterns.
 Product Segmentation: Analyze performance based on product categories or segments.
 Customer Insights: Add customer demographics and purchase behavior data to gain deeper insights.
