@@ -9,7 +9,9 @@ This dashboard provides a detailed analysis of Reliance Smart's sales data, help
 
 # Key Metrics:
 **Revenue Vs Prev. Month:** Indicates the revenue achieved compared to the previous month with a percentage increase or decrease.
+
 **Profit Vs Prev. Month:** Shows profit changes compared to the previous month.
+
 **Returns Vs Prev. Month:** Displays the total returns compared to the previous month.
 
 # Dashboard Components:
@@ -37,8 +39,11 @@ Incorporated interactive filters and slicers for in-depth analysis.
 
 ### Visualizations:
 **Card Visuals:** Used to show overall revenue, profit, and return metrics.
+
 **Map Visualization:** Represented regional revenue distribution.
+
 **Treemap:** Illustrated state-wise transaction volumes.
+
 **Table Visualization:** Displayed product brand metrics including transactions, quantity sold, revenue, and profit.
 
 ### Publishing:
@@ -61,7 +66,9 @@ Washington (WA) and California (CA) have the highest transaction volumes, sugges
 
 # Future Scope:
 **Trend Analysis:** Include trends over multiple months to predict future sales and revenue patterns.
+
 **Product Segmentation:** Analyze performance based on product categories or segments.
+
 **Customer Insights:** Add customer demographics and purchase behavior data to gain deeper insights.
 
 
